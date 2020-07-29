@@ -1,0 +1,10 @@
+Package: com.sss136.appcpuusageviewer
+Name: App CPUusage Viewer
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: SsS136
+Author: SsS136
+Section: Tweaks
+Version: 0.0.1-29+debug
+Installed-Size: 396
